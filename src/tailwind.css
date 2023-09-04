@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Titre';
+    src: url('./assets/fonts/FAMOUS.otf');
+}
+
+.titre{
+    font-family: 'Titre';
+}
+
+@font-face {
+    font-family: 'apple';
+    src: url('./assets/fonts/SF-Pro.ttf');
+}
